@@ -1,0 +1,5 @@
+EXAMEN FINAL MODULO 1
+En este examen técnico, se evaluaron las  habilidades adquiridas durante las primeras semanas del bootcamp en el uso de Python, trabajando  con listas, diccionarios, sentencias de control y clases.
+Es importante tener en cuenta la correcta implementación de las funciones requeridas, el Uso adecuado de listas y diccionarios para el almacenamiento y manipulación de datos. Utilización  de sentencias de control para la lógica del programa., asi como el Diseño y uso apropiado de clases para organizar y encapsular la funcionalidad.
+
+En el caso particular del ejercicio planteado durante el examen hemos creado una TiendaOnline , cuyos contenidos hemos agrupado en la Class TiendaOnline. En primer lugar creamos listas y diccionarios respectivamente para agrupar en ellas los distintos productos de la tienda, luego fuimos actualizando los stock, el nombre de los productos , las cantidades, atendiendo siemore a los criterios de seleccion pautados en el ejercicio y aplicando en cada caso la funcion correspondiente. 
