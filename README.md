@@ -1,5 +1,38 @@
-EXAMEN FINAL MODULO 1
-En este examen técnico, se evaluaron las  habilidades adquiridas durante las primeras semanas del bootcamp en el uso de Python, trabajando  con listas, diccionarios, sentencias de control y clases.
-Es importante tener en cuenta la correcta implementación de las funciones requeridas, el Uso adecuado de listas y diccionarios para el almacenamiento y manipulación de datos. Utilización  de sentencias de control para la lógica del programa., asi como el Diseño y uso apropiado de clases para organizar y encapsular la funcionalidad.
+Examen Módulo 1 
+Tienda Online Ecomerce 🏬🛒🛍️
 
-En el caso particular del ejercicio planteado durante el examen hemos creado una TiendaOnline , cuyos contenidos hemos agrupado en la Class TiendaOnline. En primer lugar creamos listas y diccionarios respectivamente para agrupar en ellas los distintos productos de la tienda, luego fuimos actualizando los stock, el nombre de los productos , las cantidades, atendiendo siemore a los criterios de seleccion pautados en el ejercicio y aplicando en cada caso la funcion correspondiente. 
+Descripción del Proyecto
+
+Este repositorio contiene el examen final del Módulo 1 del bootcamp en Data Analytics de ADALAB, en dicho examen se evalúan las habilidades adquiridas en Python, incluyendo el uso de listas, diccionarios, sentencias de control y clases. Durante el ejercicio hemos aplicado las siguientes técnicas:
+
+📌Listas y Diccionarios: Utilizados para almacenar y manipular la información de los productos de la tienda.
+📌Sentencias de Control: Implementadas para gestionar la lógica del programa.
+📌Clases: Diseñadas para organizar y encapsular la funcionalidad del proyecto.
+
+
+Detalles del Proyecto 📑🤓
+
+El proyecto se centra en una Tienda Online que se gestiona a través de la clase TiendaOnline. Las funcionalidades incluyen:
+
+Agrupación de Productos: Productos agrupados en listas y diccionarios, permitiendo la actualización de stock, nombres y cantidades.
+Gestión Dinámica: Actualización y manipulación de datos conforme a los criterios de selección establecidos en el ejercicio.
+Funciones Requeridas: Implementación de funciones específicas para cada tarea, asegurando la correcta manipulación de la información.
+
+
+Tecnologías Utilizadas 💻
+
+Python: Principal lenguaje de programación para el desarrollo del proyecto.
+Listas y Diccionarios: Para el almacenamiento y organización de datos.
+Sentencias de Control: Para la lógica del programa.
+Clases: Para la encapsulación y organización del código.
+
+Cómo Ejecutar 🛠️🚧
+
+Clona el repositorio: git clone <url-del-repositorio>
+Navega a la carpeta del proyecto.
+Ejecuta el archivo principal en Python: python tienda_online.py
+Contribuciones
+
+🤝Este es mi primer repositorio en GitHub, y estoy abierto a sugerencias y mejoras. Si encuentras algún problema o tienes ideas para optimizar el código, no dudes en colaborar.
+  !Gracias!☺️
+
