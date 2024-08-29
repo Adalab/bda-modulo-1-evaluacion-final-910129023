@@ -15,11 +15,7 @@ Este repositorio contiene el examen final del Módulo 1 del bootcamp en Data Ana
 
 Detalles del Proyecto 📑🤓
 
-El proyecto se centra en una Tienda Online que se gestiona a través de la clase TiendaOnline. Las funcionalidades incluyen:
-
-Agrupación de Productos: Productos agrupados en listas y diccionarios, permitiendo la actualización de stock, nombres y cantidades.
-Gestión Dinámica: Actualización y manipulación de datos conforme a los criterios de selección establecidos en el ejercicio.
-Funciones Requeridas: Implementación de funciones específicas para cada tarea, asegurando la correcta manipulación de la información.
+Durante el ejercicio nos hemos centrado en una Tienda Online que se gestiona a través de la clase TiendaOnline cuyas funcionalidades incluyen la Agrupación de Productos en listas y diccionarios, permitiendo la actualización de stock, nombres y cantidades.Gestión Dinámica que facilita la Actualización y manipulación de datos conforme a los criterios de selección establecidos en el ejercicio y la Implementación de funciones específicas para cada tarea, asegurando la correcta manipulación de la información.
 
 
 Tecnologías Utilizadas 💻
