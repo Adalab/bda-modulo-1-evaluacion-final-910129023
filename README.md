@@ -5,8 +5,11 @@ Descripción del Proyecto
 
 Este repositorio contiene el examen final del Módulo 1 del bootcamp en Data Analytics de ADALAB, en dicho examen se evalúan las habilidades adquiridas en Python, incluyendo el uso de listas, diccionarios, sentencias de control y clases. Durante el ejercicio hemos aplicado las siguientes técnicas:
 
+
 📌Listas y Diccionarios: Utilizados para almacenar y manipular la información de los productos de la tienda.
+
 📌Sentencias de Control: Implementadas para gestionar la lógica del programa.
+
 📌Clases: Diseñadas para organizar y encapsular la funcionalidad del proyecto.
 
 
